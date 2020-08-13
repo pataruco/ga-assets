@@ -41,7 +41,6 @@ main {
 }
 
 .logos li {
-  max-width: 33%;
   display: flex;
   align-items: center;
 }
@@ -50,11 +49,15 @@ main {
   display: block;
   margin-right: 1.25rem;
 }
-.logos picture {
-  width: 250px;
-}
 
 .logos a[href='./assets/logos/ga-text-white-white.svg'] picture,
 .logos a[href='./assets/logos/ga-white.svg'] picture {
   background-color: black;
+}
+.logos picture {
+  width: 250px;
+}
+
+.logos li p {
+  max-width: 80ch;
 }
