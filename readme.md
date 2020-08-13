@@ -1,3 +1,7 @@
+![Deploy](https://github.com/pataruco/ga-assets/workflows/Deploy/badge.svg)
+
+![](https://pataruco.github.io/ga-assets/assets/logos/ga.svg)
+
 # General Assembly assets
 
 ## What is it?
